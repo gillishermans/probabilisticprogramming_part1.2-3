@@ -2,5 +2,5 @@
 
 For simplicity's sake both tasks are executed at main.
 Run main with the imported problog library.
-Be advised: 10000 iterations will take an exceptional amount of time, thus
+Be advised: 10000 iterations will take an exceptional amount of time.
 
