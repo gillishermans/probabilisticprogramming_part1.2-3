@@ -134,8 +134,8 @@ def main():
         #3.2: Create 100, 1000, 10000 interpretations and estimate p_n
         print("--Estimate parameters--")
         estimate_parameters(100)
-        #estimate_parameters(1000)
-        #estimate_parameters(10000)
+        estimate_parameters(1000)
+        estimate_parameters(10000)
 
 if __name__ == '__main__':
         main()
